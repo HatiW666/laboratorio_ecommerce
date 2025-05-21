@@ -1,4 +1,4 @@
-import mysql.connector
+import mysql.connector    #ciaoooooooo sono Giorgio yeeeeee
 
 def esegui_query_insert(query, valori):
     conn = mysql.connector.connect(
